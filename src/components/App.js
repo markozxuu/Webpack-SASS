@@ -3,7 +3,7 @@ import './App.scss';
 
 function Hello() {
     return(
-        <h1 className="title">Holas Luis c:</h1>
+        <h1 className="title">Hola, Luis Santiago :)</h1>
     )
 }
 

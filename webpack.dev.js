@@ -29,8 +29,8 @@ module.exports = {
                 test: /\.(scss|css|sass)$/,
                 // Que loader se encargar del tipo extension del archivo
                 use: ["style-loader", "css-loader", "sass-loader"]
-
             }
         ]
     },
+    mode: 'development'
 };
